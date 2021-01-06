@@ -1,3 +1,3 @@
 # yuyaoyolandacheng.github.io
 Yuyao Yolanda's User page
-My favourite programming language is Java.
+My favourite programming language is Java
