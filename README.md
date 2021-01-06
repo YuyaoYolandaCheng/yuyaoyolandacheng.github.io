@@ -28,3 +28,8 @@ Here are the tasks I want to add to my daily routine
 - [x] Study
 - [ ] Watch anime
 - [ ] Listen to music
+
+This is what I am studying
+~~CSE110~~
+   ~~- Lab1~~
+    ~~- How to use markdown~~
