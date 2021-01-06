@@ -16,3 +16,5 @@ mkdir
 ls
 ```
 Click here to read the [see my fav programming language](README.md#my-favourite-programming-language-is-java).
+
+Another picture of me [see another picture](./yuyao_headshot.jpeg)
