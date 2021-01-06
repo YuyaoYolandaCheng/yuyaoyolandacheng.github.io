@@ -20,9 +20,14 @@ Click here to read the [see my fav programming language](README.md#my-favourite-
 Another picture of me [see another picture](./yuyao_headshot.jpeg)
 
 This is my daily routine
-- Wakeup
-- Eat
-- Sleep
+1. Wakeup
+2. Eat
+3. Sleep
+
+This is what I eat
+- Fruit
+- Veges
+- Egg
 
 Here are the tasks I want to add to my daily routine
 - [x] Study
@@ -30,6 +35,9 @@ Here are the tasks I want to add to my daily routine
 - [ ] Listen to music
 
 This is what I am studying
-~~CSE110~~
-   ~~- Lab1~~
-    ~~- How to use markdown~~
+1. CSE 110
+   - Lab1
+     - Github
+2. CSE 134B
+   - Discussion 1
+     - Web
